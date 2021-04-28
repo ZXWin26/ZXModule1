@@ -1,0 +1,22 @@
+{
+  "name": "ZXModule1",
+  "version": "0.1.0",
+  "summary": "A short description of ZXModule1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Paul.Yin/ZXModule1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Paul.Yin": "Paul.Yin@yff.com"
+  },
+  "source": {
+    "git": "https://github.com/Paul.Yin/ZXModule1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZXModule1/Classes/**/*"
+}

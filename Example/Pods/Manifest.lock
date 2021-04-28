@@ -1,0 +1,16 @@
+PODS:
+  - ZXModule1 (0.1.0)
+
+DEPENDENCIES:
+  - ZXModule1 (from `../`)
+
+EXTERNAL SOURCES:
+  ZXModule1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZXModule1: 32f714720c0d95a5115d87a269c8334dc923dad2
+
+PODFILE CHECKSUM: 80cc92cc3f6081a9781f26aa53769285aa3af3d4
+
+COCOAPODS: 1.10.1
