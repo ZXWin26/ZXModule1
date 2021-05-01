@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'ZXModule1/Classes/**/*'
   
+  s.dependency 'ZXModule2'
+  
   # s.resource_bundles = {
   #   'ZXModule1' => ['ZXModule1/Assets/*.png']
   # }
